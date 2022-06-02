@@ -49,13 +49,14 @@ There is no front end for this application so you should use Insomnia, Postman, 
 ```
 Using an API client you can view, create, edit, and delete items from the tables. A video link (below) shows the full functionality using Insomnia. A snapshot of the Insomnia window (below) shows all of the API routes that will be demonstrated in the video.
 
-### E-Commerce startup page
+### E-Commerce API routes in Insomnia
 
-<img src="./assets/images/screenshot.png" alt="employee tracker screenshot" width="600"/>
+<img src="./assets/ecommerce-screen.png" alt="ecommerce screenshot" width="600"/>
 
 ### Link to demo video
+This video loads from Google Drive. It can be downloaded from the Github repo's assets folder.
 
-[Demo Video](https://drive.google.com/file/d/1vqj7zHCmdeJgTr5-SgzsGTkV4gqw1sM-/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/168EKwEu2aXdTZIB1WwmV_YXEZqGmeXIF/view?usp=sharing)
 
 ## License
 
